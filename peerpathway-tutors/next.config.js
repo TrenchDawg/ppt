@@ -1,0 +1,9 @@
+module.exports = {
+  reactStrictMode: true,
+  env: {
+    NEXT_PUBLIC_STRIPE_SINGLE: process.env.NEXT_PUBLIC_STRIPE_SINGLE,
+    NEXT_PUBLIC_STRIPE_FIVEPACK: process.env.NEXT_PUBLIC_STRIPE_FIVEPACK,
+    NEXT_PUBLIC_STRIPE_TENPACK: process.env.NEXT_PUBLIC_STRIPE_TENPACK,
+    NEXT_PUBLIC_OPS_EMAIL: process.env.NEXT_PUBLIC_OPS_EMAIL,
+  },
+};
