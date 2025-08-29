@@ -57,5 +57,3 @@ Tailwind; rounded-2xl, shadow-sm, border, good spacing; accessible colors.
 7) Policies pages linked in footer.  
 8) Metadata set in layout.
 
-## Agent instructions
-Read this spec and generate all required files directly in the project. Overwrite placeholders if needed. After writing files, run `npm run build` to verify; fix any path/type issues.
